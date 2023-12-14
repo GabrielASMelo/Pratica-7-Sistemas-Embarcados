@@ -12,3 +12,6 @@ while True:
 	sleep(0.5)
 	GPIO.output(16,False)
 	sleep(0.5)
+
+# Gabriel Aguilar Soares de Melo 11915432
+# João Pedro Suzuki de Figueiredo 11800712
