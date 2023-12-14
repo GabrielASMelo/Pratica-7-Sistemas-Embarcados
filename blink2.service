@@ -9,3 +9,6 @@ user=SEL
 
 [Install]
 WantedBy=multi-user.target
+
+# Gabriel Aguilar Soares de Melo 11915432
+# João Pedro Suzuki de Figueiredo 11800712
