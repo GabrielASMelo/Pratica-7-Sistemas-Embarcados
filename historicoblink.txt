@@ -1,93 +1,14 @@
-  650  cd /home/sel
-  651  cd /1232
-  652  cd /home/sel/1232
-  669  nano blink1.sh
-  670  chmod +x blink1.sh
-  673  ./blink.sh
-  674  ls -l
-  675  nano blink.sh
-  676  chmod +x ./blink.sh
-  677  ./blink.sh
-  681  nano blink1.service
-  698  nano sinalizador.py
-  cp pratica7.py blink.sh
-  703  ls blink.sh 
-  704  nano blink.sh 
-  705  chmod +x ./blink.sh
-  706  nano blink.sh 
-  707  ./blink.sh 
-  708  chmod +x ./blink.sh
-  709  ./blink.sh 
-  710  nano blink.sh 
-  711  chmod +x ./blink.sh
-  712  ./blink.sh 
-  713  chmod +x blink.sh
-  714  ./blink.sh 
-  715  nano blink.sh 
-  716  chmod +x blink.sh
-  717  ./blink.sh 
-  718  nano blink.sh 
-  719  chmod +x blink.sh
-  720  ./blink.sh 
-  721  chmod +x ./blink.sh
-  722  ./blink.sh 
-  723  chmod +x ./blink.sh
-  724  chmod +x blink.sh
-  725  ./blink.sh 
-  726  nano unit.txt
-  727  cp unit.txt blink2.servic
-  728  ls
-  729  rm unit.txt 
-  730  ls
-  731  nano blink2.service 
-  732  sudo cp blink2.service /lib/systemd/system
-  733  sudo systemctl start blink
-  734  sudo systemctl start blink2
-  735  sudo systemctl stop blink2
-  736  sudo systemctl enable blink2
-  737  shutdown now
-  738  cd 1576/
-  739  cd pratica7
-  740  pwd
-  741  pinout
-  742  shutdown now
-  743  cd 1576/
-  744  ls
-  745  cd pratica7
-  746  ls
-  747  sudo systemctl start blink2
-  748  sudo systemctl stop blink2
-  749  sudo systemctl start blink2
-  750  nano blink2.service 
-  751  sudo systemctl start blink2
-  752  ./blink.sh 
-  753  cd 1576/]
-  754  cd 1576/
-  755  ls
-  756  nano piscaLED_1.py 
-  757  sudo systemctl stop blink2
-  758  sudo systemctl start blink2
-  759  sudo systemctl stop blink2
-  760  cd 1576/
-  761  cd pratica7
-  762  ls
-  763  nano pratica7.py 
-  764  nano blink2.service 
-  765  sudo systemctl start blink2
-  766  sudo systemctl stop blink2
-  767  sudo systemctl enable blink2
-  768  sudo cp blink2.service /lib/systemd/system
-  769  nano blink2.service /lib/systemd/system
-  770  sudo systemctl enable blink2
-  771  history > historico.txt
-  772  sudo systemctl start blink2
-  773  sudo systemctl stop blink2
-  774  sudo systemctl start blink2
-  775  sudo systemctl stop blink2
-  776  sudo systemctl start blink2
-  777  sudo systemctl stop blink2
-  778  sudo systemctl start blink2
-  779  sudo systemctl stop blink2
-  780  ls
-  781  nano historico.txt 
-  782  history > historicoblink.txt
+
+  cd /home/sel/1232
+  nano blink1.sh
+  chmod +x blink1.sh
+  ./blink.sh
+  nano sinalizador.py
+  nano blink2.service
+  sudo cp blink2.service /lib/systemd/system
+  sudo systemctl start blink2
+  sudo systemctl stop blink2
+  sudo systemctl enable blink2
+  shutdown now
+  cd /home/sel/1232
+  history > historicoblink.txt
